@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="name_users">GitHub User</string>
+    <string name="founder">Founder of</string>
+    <string name="respiratory">Respiratory</string>
+    <string name="follower">FOLLOWERS</string>
+    <string name="following">FOLLOWINGS</string>
+
+</resources>
